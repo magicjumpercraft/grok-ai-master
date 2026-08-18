@@ -34,4 +34,4 @@ The goal is a tool that just works — no clutter, no bloat.
 - 📖 **Homepage:** [https://grok-ai-master.softonx.xyz](https://grok-ai-master.softonx.xyz)
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners. 
+> This project is shared as-is. All product names and logos belong to their respective owners.  
